@@ -1,5 +1,1 @@
-### abcreativ
-
-non-traditional dev, based in thailand. came to code the long way round.
-
-building a few things in various states of readiness.
+The open source bits are at @nomada-labs, everything else is private.
